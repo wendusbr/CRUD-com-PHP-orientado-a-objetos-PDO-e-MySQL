@@ -10,10 +10,10 @@
 
     <div class="form-group">
       <a href="index.php">
-        <button type="button" class="btn btn-success">Cancelar</button>
+        <button type="button" class="btn btn-light"><i class="fa-solid fa-right-from-bracket fa-rotate-180"></i> Voltar</button>
       </a>
 
-      <button type="submit" name="excluir" class="btn btn-danger">Excluir</button>
+      <button type="submit" name="excluir" class="btn btn-danger"><i class="fa-regular fa-trash-can"></i> Excluir</button>
     </div>
 
   </form>

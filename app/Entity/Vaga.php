@@ -42,6 +42,9 @@ class Vaga{
    * @return boolean
    */
   public function cadastrar(){
+    //Definir fuso horário
+    date_default_timezone_set('America/Argentina/Buenos_Aires');
+
     //DEFINIR A DATA
     $this->data = date('Y-m-d H:i:s');
 

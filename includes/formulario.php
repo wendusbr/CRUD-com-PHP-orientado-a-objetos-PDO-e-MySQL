@@ -2,7 +2,7 @@
 
   <section>
     <a href="index.php">
-      <button class="btn btn-success">Voltar</button>
+      <button class="btn btn-light"><i class="fa-solid fa-right-from-bracket fa-rotate-180"></i> Voltar</button>
     </a>
   </section>
 
@@ -40,7 +40,7 @@
     </div>
 
     <div class="form-group">
-      <button type="submit" class="btn btn-success">Enviar</button>
+      <button type="submit" class="btn btn-success"><i class="fa-solid fa-paper-plane"></i> Enviar</button>
     </div>
 
   </form>
